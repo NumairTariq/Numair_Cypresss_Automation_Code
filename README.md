@@ -1,2 +1,3 @@
-# Altcoinist_Automation_Suite
-This repo contains Altocinist automation testing test cases
+# Cypress_Automation_Suite
+This repo contains cypress automation test suite.
+
