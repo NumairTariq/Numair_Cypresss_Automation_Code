@@ -8,7 +8,7 @@
     
 **Run test**
 
-1- Run npx cypress open 
+1- Run npx cypress open in terminal
 
 2- Click on E2E Testing
 
