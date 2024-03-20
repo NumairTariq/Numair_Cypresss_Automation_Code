@@ -1,7 +1,7 @@
 Setup & Installation
 
     Clone git repository or download zip file
-    Go to cypress-cucumber-ecommerce folder
+    Go to Numair_Cypresss_Automation_Code folder
     run command as "npm install" to install all dependencies
 Run test
     Run npx cypress open 
